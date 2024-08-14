@@ -1,4 +1,5 @@
-## Hi there I am Andres Buitrago, I'm a Web Developer Junior👋
+## Hi there I am Andres Buitrago
+I'm a Web Developer Junior👋
 
 <!--
 **AndresB02/AndresB02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
